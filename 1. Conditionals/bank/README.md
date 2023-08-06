@@ -1,5 +1,5 @@
 ## Problem
-(https://cs50.harvard.edu/x/2023/problems/6/bank/)
+(https://cs50.harvard.edu/python/2022/psets/1/bank/)
 
 ## Tips
 To implement bank.py, you can use the following functions:
