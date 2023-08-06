@@ -8,12 +8,20 @@
 [CS50 Certificate](https://cs50.harvard.edu/python/2022/certificate/)
 
 ## Course description
-An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and “debug” it. Designed for students with or without prior programming experience who’d like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. No software required except for a web browser, or you can write code on your own PC or Mac.
-
-Whereas CS50x itself focuses on computer science more generally as well as programming with C, Python, SQL, and JavaScript, this course, aka CS50P, is entirely focused on programming with Python. You can take CS50P before CS50x, during CS50x, or after CS50x. But for an introduction to computer science itself, you should still take CS50x!
+An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and "debug" it. Designed for students with and without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditions and Boolean expressions; loops; and objects and methods. Plus exceptions, file I/O, and libraries. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems.
 
 
 
+## Topics
+* functions, arguments, return values
+* variables, types, exceptions
+* conditionals, Boolean expressions
+* loops
+* objects, methods
+* file I/O, libraries
+
+## Tips
+Whereas [CS50x](https://github.com/yasingunay/CS50x-2023) itself focuses on computer science more generally as well as programming with C, Python, SQL, and JavaScript, this course, aka CS50P, is entirely focused on programming with Python. You can take CS50P before CS50x, during CS50x, or after CS50x. But for an introduction to computer science itself, you should still take CS50x!
 
 ![50!](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IYCifTCCR2ah-79u94Z3wg.png)
 
