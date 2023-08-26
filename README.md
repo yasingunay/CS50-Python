@@ -23,6 +23,9 @@ An introduction to programming using a language called Python. Learn how to read
 ## Tips
 Whereas [CS50x](https://github.com/yasingunay/CS50x-2023) itself focuses on computer science more generally as well as programming with C, Python, SQL, and JavaScript, this course, aka CS50P, is entirely focused on programming with Python. You can take CS50P before CS50x, during CS50x, or after CS50x. But for an introduction to computer science itself, you should still take CS50x!
 
+## Useful Sources
+* [Black](https://pypi.org/project/black/)
+
 ![50!](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IYCifTCCR2ah-79u94Z3wg.png)
 
 *Please note that this repository is for storing my projects and files from Harvard University's CS50x course. It is not meant for sharing answers or encouraging academic dishonesty. If you are currently enrolled, please complete the assignments independently and refer to the course materials.*
