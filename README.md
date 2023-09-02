@@ -1,4 +1,4 @@
-![first!](https://i.ytimg.com/vi/OvKCESUCWII/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB7pGTWjZP5aKdziDav_i9_WbJL0A)
+![certificate!](certificate.png)
 # CS50-Python
 
 [General Information](https://pll.harvard.edu/course/cs50s-introduction-programming-python/2023-05)
@@ -6,6 +6,8 @@
 [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 
 [CS50 Certificate](https://cs50.harvard.edu/python/2022/certificate/)
+
+![first!](https://i.ytimg.com/vi/OvKCESUCWII/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB7pGTWjZP5aKdziDav_i9_WbJL0A)
 
 ## Course description
 An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and "debug" it. Designed for students with and without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditions and Boolean expressions; loops; and objects and methods. Plus exceptions, file I/O, and libraries. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems.
