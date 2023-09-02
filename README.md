@@ -91,6 +91,8 @@ Whereas [CS50x](https://github.com/yasingunay/CS50x-2023) itself focuses on comp
 ### Week 9 - [Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/)
 - No problem set for this week.
 
+### [Final Project](https://cs50.harvard.edu/python/2022/project/) - [News Automator](https://github.com/yasingunay/News-Automator.git)
+
 ![50!](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IYCifTCCR2ah-79u94Z3wg.png)
 
 *Please note that this repository is for storing my projects and files from Harvard University's CS50x course. It is not meant for sharing answers or encouraging academic dishonesty. If you are currently enrolled, please complete the assignments independently and refer to the course materials.*
